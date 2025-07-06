@@ -1,4 +1,3 @@
-// STEP 4: Wrap the entire contents of script.js inside an IIFE
 (function () {
 
   var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];

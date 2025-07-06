@@ -1,4 +1,3 @@
-// STEP 2: Wrap the entire contents of helloSpeaker.js inside an IIFE
 (function (window) {
   var helloSpeaker = {};
   var speakWord = "Hello";
